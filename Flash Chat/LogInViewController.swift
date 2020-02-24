@@ -2,8 +2,9 @@
 //  LogInViewController.swift
 //  Flash Chat
 //
-//  This is the view controller where users login
-
+//  Created by Muhammet Taha Genc on 11.07.2019.
+//  Copyright © 2019 Muhammet Taha Genc. All rights reserved.
+//
 
 import UIKit
 import Firebase

@@ -2,8 +2,9 @@
 //  Message.swift
 //  Flash Chat
 //
-//  This is the model class that represents the blueprint for a message
-
+//  Created by Muhammet Taha Genc on 11.07.2019.
+//  Copyright © 2019 Muhammet Taha Genc. All rights reserved.
+//
 class Message {
     
     //TODO: Messages need a messageBody and a sender variable
